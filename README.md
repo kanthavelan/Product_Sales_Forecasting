@@ -23,7 +23,7 @@ Data description
 9.	#Order: The number of orders received by the store on the specified day.
 10.	Sales: Total sales amount for the store on the given day.
 
-I tried to add final_model.pkl to GitHub, but it was not allowed due to its size. So, I uploaded it to Google Drive and shared the link here.
+I tried to add final_model.pkl to GitHub using Git lfs, but it was not allowed due to its size. So, I uploaded it to Google Drive and shared the link here.
 
 Final model file location:
 
