@@ -22,3 +22,7 @@ Data description
 8.	Discount: Indicates whether a discount was offered on the given date (Yes/No).
 9.	#Order: The number of orders received by the store on the specified day.
 10.	Sales: Total sales amount for the store on the given day.
+
+Final model file location:
+
+https://drive.google.com/drive/folders/1slZU5WbHfhcJoZtUIFiDbxwZd641rcIP?usp=sharing
